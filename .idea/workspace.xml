@@ -3,21 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="46b980db-a275-451c-8942-6bdb3b17a24f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/head中的 JavaScript 函数.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/使用console.log()方法在浏览器中显示JavaScript值.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/使用innerHTML来获取或插入元素内容.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/使用window.alert()弹出警告框来显示数据.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/响应按钮点击事件.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/在文档已完成加载后执行document.write整个HTML页面将被覆盖.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/我的第一个JavaScript程序.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/改变HTML图像.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/改变HTML样式.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/数字（Number）字面量.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/调用外部的JavaScript.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/通过document.write向HTML写文本.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/通过按键改变HTML内容.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/验证输入.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTMLTest/验证输入加入空格判别.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,23 +20,24 @@
     <session id="-962939567">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="46" />
+          <entry key="html" value="51" />
           <entry key="js" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="46" />
+          <entry key="HTML" value="51" />
           <entry key="JavaScript" value="1" />
         </counts>
       </usages-collector>
@@ -68,12 +54,48 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTMLTest/JavaScript变量/变量是存储信息的“容器”.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTMLTest/JavaScript变量/创建变量然后把它放入HTML段落中.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="361">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTMLTest/JavaScript数据类型/JavaScript 字符串.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTMLTest/JavaScript数据类型/JavaScript 数字.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTMLTest/JavaScript数据类型/JavaScript 数组.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTMLTest/JavaScript数据类型/JavaScript 对象.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -124,6 +146,11 @@
         <option value="$PROJECT_DIR$/HTMLTest/JavaScript注释/单行注释.html" />
         <option value="$PROJECT_DIR$/HTMLTest/JavaScript注释/多行注释.html" />
         <option value="$PROJECT_DIR$/HTMLTest/JavaScript变量/变量是存储信息的“容器”.html" />
+        <option value="$PROJECT_DIR$/HTMLTest/JavaScript变量/创建变量然后把它放入HTML段落中.html" />
+        <option value="$PROJECT_DIR$/HTMLTest/JavaScript数据类型/JavaScript 字符串.html" />
+        <option value="$PROJECT_DIR$/HTMLTest/JavaScript数据类型/JavaScript 数字.html" />
+        <option value="$PROJECT_DIR$/HTMLTest/JavaScript数据类型/JavaScript 数组.html" />
+        <option value="$PROJECT_DIR$/HTMLTest/JavaScript数据类型/JavaScript 对象.html" />
       </list>
     </option>
   </component>
@@ -144,6 +171,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,7 +188,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,11 +209,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.变量是存储信息的“容器”.html">
+  <component name="RunManager" selected="JavaScript Debug.JavaScript 字符串.html">
     <configuration name="使用 算术运算符 来计算值.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/HTMLTest/JavaScript语法/JavaScript 操作符/使用 算术运算符 来计算值.html">
       <method v="2" />
     </configuration>
     <configuration name="分号用于分隔 JavaScript 语句.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/HTMLTest/JavaScript语句/分号用于分隔 JavaScript 语句.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="创建变量然后把它放入HTML段落中.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/HTMLTest/JavaScript变量/创建变量然后把它放入HTML段落中.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="JavaScript 字符串.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/HTMLTest/JavaScript数据类型/JavaScript 字符串.html">
       <method v="2" />
     </configuration>
     <configuration name="多行注释.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/HTMLTest/JavaScript注释/多行注释.html">
@@ -207,15 +240,15 @@
     <list>
       <item itemvalue="JavaScript Debug.使用 算术运算符 来计算值.html" />
       <item itemvalue="JavaScript Debug.分号用于分隔 JavaScript 语句.html" />
-      <item itemvalue="JavaScript Debug.单行注释.html" />
       <item itemvalue="JavaScript Debug.多行注释.html" />
-      <item itemvalue="JavaScript Debug.变量是存储信息的“容器”.html" />
+      <item itemvalue="JavaScript Debug.创建变量然后把它放入HTML段落中.html" />
+      <item itemvalue="JavaScript Debug.JavaScript 字符串.html" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.变量是存储信息的“容器”.html" />
+        <item itemvalue="JavaScript Debug.JavaScript 字符串.html" />
+        <item itemvalue="JavaScript Debug.创建变量然后把它放入HTML段落中.html" />
         <item itemvalue="JavaScript Debug.多行注释.html" />
-        <item itemvalue="JavaScript Debug.单行注释.html" />
         <item itemvalue="JavaScript Debug.分号用于分隔 JavaScript 语句.html" />
         <item itemvalue="JavaScript Debug.使用 算术运算符 来计算值.html" />
       </list>
@@ -235,15 +268,16 @@
       <workItem from="1536312822669" duration="5696000" />
       <workItem from="1536571095127" duration="4040000" />
       <workItem from="1536575517474" duration="2175000" />
+      <workItem from="1536835566510" duration="954000" />
+      <workItem from="1537346846083" duration="3173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19254000" />
+    <option name="totallyTimeSpent" value="23381000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1447" y="76" width="1346" height="776" extended-state="0" />
-    <editor active="true" />
+    <frame x="1447" y="76" width="1346" height="776" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25382262" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -369,8 +403,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTMLTest/JavaScript变量/变量是存储信息的“容器”.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="76">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTest/JavaScript变量/创建变量然后把它放入HTML段落中.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTest/JavaScript数据类型/JavaScript 字符串.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTest/JavaScript数据类型/JavaScript 数字.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTest/JavaScript数据类型/JavaScript 数组.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTest/JavaScript数据类型/JavaScript 对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
